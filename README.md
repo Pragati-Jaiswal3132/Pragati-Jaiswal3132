@@ -7,7 +7,7 @@
 
 - I'm intrested to learn and code more and built intresting and useful projects.
   
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **python**
 
